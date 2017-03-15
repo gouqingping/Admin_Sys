@@ -1,0 +1,59 @@
+/* CSS Document */
+.panel .panel-footer, .panel > *:last-child,.panel > *:first-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0}
+.panel-body {
+    padding: 25px 20px;
+	color:#f1f1f1}
+.mar-btm{margin-bottom: 15px}
+h2, .h2,.text-sm {font-size:14px}
+@media screen and (min-width: 980px) {
+.text-5x, .text-4x, .text-5x, .text-2x, .text-lg, .text-sm, .text-xs {font-size: 4em;line-height: 1.25}
+h2, .h2 {font-size:2em}
+}
+.month_close {margin-right:20px}
+.small, small {font-size: 85%}
+.panel-dark .panel-heading, .panel-dark
+.panel-footer, .panel-dark.panel-colorful
+{
+    background-color: #3b4146;
+    border-color: #3b4146;
+    color: #fff}
+.main_none{
+	margin:5px 0 20px 0}
+.main-box{
+	margin:5px 0 10px 15px !important}
+.panel-dark tr td {
+    background-color: #3b4146;
+    border-color: #3b4146 !important;
+    color: #fff}
+.panel-danger .panel-heading, .panel-danger .panel-footer, .panel-danger.panel-colorful,.panel-danger tr td {
+    background-color: #f76c51;
+    border-color: #f76c51 !important;
+    color: #fff}
+.panel-primary .panel-heading, .panel-primary .panel-footer, .panel-primary.panel-colorful,.panel-primary tr td{
+    background-color: #5fa2dd;
+    border-color: #5fa2dd !important;
+    color: #fff}
+.panel-orange,.panel-orange tr td {
+    background-color: orange;
+    border-color:orange !important;
+    color: #fff}
+.panel {
+    border: 0 none;
+    border-radius: 2px;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05);
+    margin-bottom: 24px}
+.list{
+	width:200px;
+    border-top:0 !important;
+    line-height: 1.4}
+.th,td{
+	width:200px !important}
+.td-width{
+	width:1% !important;
+	border-color: transparent !important}
+.td-margin{
+	margin:0 10px !important}
+.top{
+	margin-top:63px}
